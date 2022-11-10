@@ -1,7 +1,7 @@
  function fireworks() {
     new fo(50), setTimeout("new fo(50)", 750), 0 < stopafter && setTimeout("stopfire()", 6e4 * stopafter)
 }
-document.write('<style type="text/css">body{padding-bottom:0px}</style><img style="position:fixed;z-index:99999;top:0;left:0" src=""/><img style="position:fixed;z-index:99999;top:0;right:0" src="https://lh3.googleusercontent.com/yfLzqRzZL5T5i20FJbhfXEjDjkUT3PshER0urEBiAq1Euy4NTMZBKnMsH8ni-R7ffM8a_mgua5IjbGnp4DWUXQDI_-mNaDfAkgcyFlNNa5u0kRqjaBtW077U47CWsJgNfhhk-g=w141-h143-no"/><div style="position:fixed;z-index:99999;bottom:-50px;left:0;width:100%;height:104px;background:url() repeat-x bottom left;"></div><img style="position:fixed;z-index:99999;bottom:0px;left:0px" src=""/><img style="position:fixed;z-index:9999;bottom:0px;right:0px" src=""/><div style="position:fixed;z-index:99999;bottom:3px;right:3px; font-size:11px;color:#B7E8FF;"></div>');
+document.write('<style type="text/css">body{padding-bottom:0px}</style><img style="position:fixed;z-index:99999;top:0;left:0" src=""/><img style="position:fixed;z-index:99999;top:0;right:0" src=""/><div style="position:fixed;z-index:99999;bottom:-50px;left:0;width:100%;height:104px;background:url() repeat-x bottom left;"></div><img style="position:fixed;z-index:99999;bottom:0px;left:0px" src=""/><img style="position:fixed;z-index:9999;bottom:0px;right:0px" src=""/><div style="position:fixed;z-index:99999;bottom:3px;right:3px; font-size:11px;color:#B7E8FF;"></div>');
 var stopafter = 0,
     firestop = [],
     fire = [],
